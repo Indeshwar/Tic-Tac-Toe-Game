@@ -1,0 +1,19 @@
+To play Computer Vs Computer Tic-Tac-Toe game: 
+
+1) Type python final_project.py c
+2) Hit enter to play game
+
+
+To Play Human Vs Computer Tic-Tac-Toe game:
+
+1) Type python final_project.py h
+2) When you hit enter, it will ask you to enter the position of 'O' where you want place it
+3) Just type the indexes of row and column of empty place of two dimensional 
+For example, if you type 1,0 the result will be like following:
+ 
+ 	[ '_', 'X', '_' ]
+ 	[ 'O', '_', '_' ]
+ 	[ '_', '_', '_' ]
+
+Where 1 is the index of row and 0 is the index of column
+
